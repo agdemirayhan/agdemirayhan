@@ -1,6 +1,12 @@
 ![Alt Text](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-## Hi there 👋
+## Hi there I'm Ayhan👋
+
+- ⚙️ Mechanical Engineer
+- 🌱 Student at 42Heilbronn
+### MY CODEWARS STATS
+![Codewars](https://github.r2v.ch/codewars?user=agdemirayhan&stroke=%23BB432C)
+
 
 <!--
 **agdemirayhan/agdemirayhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
